@@ -16,9 +16,9 @@
   }
   
   .iconContainer {
-    width: 60%;
+    width: 30%;
     height: 50px;
-    padding: 20px 0;
+    padding: 20px ;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
